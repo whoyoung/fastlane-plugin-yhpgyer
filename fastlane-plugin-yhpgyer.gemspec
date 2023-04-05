@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'mr_yangh@163.com'
 
   spec.summary       = 'distribute app to pgyer beta testing service'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-yhpgyer"
+  spec.homepage      = "https://github.com/whoyoung/fastlane-plugin-yhpgyer"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
